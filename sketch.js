@@ -12,6 +12,169 @@ function draw(){
 strokeWeight(4);
 stroke(255, 204, 100);
 
+  fill('#fae');
+  beginShape()
+  vertex(387, 271);
+  vertex(894, 641);
+  vertex(584, 485);
+  vertex(535, 409);
+  vertex(407, 295);
+  endShape(CLOSE)
+
+  fill('rgba(100%,0%,100%,0.5)');
+  beginShape()
+  vertex(387, 271);
+  vertex(646, 401);
+  vertex(796, 497);
+  vertex(894, 641);
+  endShape(CLOSE);
+
+  fill('#fae');
+  beginShape()
+  vertex(584, 485);
+  vertex();
+  vertex(910, 669);
+  vertex(760, 795);
+  vertex(664, 605);
+  vertex(664, 583);
+  vertex(664, 581);
+  vertex(638, 561);
+  vertex(620, 533);
+  vertex(664, 605);
+  endShape(CLOSE);
+
+  fill('rgba(100%,0%,100%,0.5)');
+  beginShape()
+  vertex(910, 671);
+  vertex(934, 663);
+  vertex(994, 653);
+  vertex(1034, 667);
+  vertex(1050, 695);
+  vertex(760, 795);
+  endShape(CLOSE);
+
+  fill('#fae');
+  beginShape()
+  vertex(760, 795);
+  vertex(1050, 695);
+  vertex(1080, 711);
+  vertex(1078, 717);
+  vertex(1052, 733);
+  vertex(996, 811);
+  vertex(904, 875);
+  vertex(860, 895);
+  endShape(CLOSE);
+
+  fill('rgba(100%,0%,100%,0.5)');
+  beginShape()
+  vertex(760, 795);
+  vertex(860,895);
+  vertex(850, 921);
+  vertex(814, 951);
+  vertex(792, 963);
+  vertex(750, 977);
+  vertex(726, 991);
+  endShape(CLOSE);
+
+  fill('#fae');
+  beginShape()
+  vertex(760, 795);
+  vertex(726, 991);
+  vertex(553, 1015);
+  endShape(CLOSE);
+
+  fill('rgba(100%,0%,100%,0.5)');
+  beginShape()
+  vertex(760, 795);
+  vertex(557, 1017);
+  vertex(215, 1103);
+  vertex(175, 1119);
+  vertex(167, 1115);
+  vertex(185, 1095);
+  vertex(265, 1047);
+  vertex(291, 1031);
+  vertex(299, 1015);
+  endShape(CLOSE);
+
+  fill('#fae');
+  beginShape()
+  vertex(760, 795);
+  vertex(299, 1015);
+  vertex(423, 957);
+  vertex(433, 939);
+  vertex(465, 929);
+  vertex(465, 917);
+  vertex(475, 905);
+  vertex(473, 875);
+  vertex(497, 859);
+  vertex(499, 835);
+  vertex(519, 819);
+  vertex(543, 813);
+  endShape(CLOSE)
+
+  fill('rgba(100%,0%,100%,0.5)');
+  beginShape()
+  vertex(760, 795);
+  vertex(543, 813);
+  vertex(489, 787);
+  vertex(481, 779);
+  vertex(413, 769);
+  vertex(339, 767);
+  vertex(205, 769);
+  vertex(143, 765);
+  vertex(49, 761);
+  vertex(31, 751);
+  vertex(51, 745);
+  vertex(99, 735);
+  vertex(119, 731);
+  vertex(167, 729);
+  vertex(177, 719);
+  vertex(209, 715);
+  vertex(287, 693);
+  vertex(303, 693);
+  vertex(311, 683);
+  vertex(331, 681);
+  endShape(CLOSE);
+
+  fill('#fae');
+  beginShape()
+  vertex(760, 795);
+  vertex(331, 681);
+  vertex(331, 657);
+  vertex(345, 647);
+  vertex(323, 647);
+  vertex(317, 603);
+  vertex(291, 579);
+  vertex(289, 565);
+  vertex(271, 549);
+  vertex(259, 529);
+  vertex(255, 519);
+  vertex(229, 495);
+  vertex(213, 479);
+  vertex(217, 473);
+  vertex(237, 479);
+  vertex(341, 561);
+  vertex(371, 583);
+  vertex(401, 609);
+  vertex(437, 639);
+  vertex(471, 655);
+  vertex(517, 667);
+  vertex(564, 663);
+  endShape(CLOSE);
+
+  fill('rgba(100%,0%,100%,0.5)');
+  beginShape()
+  vertex(760, 795);
+  vertex(564, 663);
+  vertex(588, 651);
+  vertex(588, 641);
+  vertex(610, 631);
+  vertex(612, 613);
+  vertex(636, 605);
+  vertex(666, 605);
+  endShape(CLOSE);
+
+
   colorMode(HSB);
   fill(255, 204, 100);
   beginShape()
